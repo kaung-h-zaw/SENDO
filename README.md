@@ -92,12 +92,12 @@ SENDO/
 
 ## License
 
-Copyright (c) 2026 Kaung H. Zaw. All Rights Reserved.
+Copyright (c) 2026 Kaung Htet Zaw. All Rights Reserved.
 
 This project is proprietary software. The source code, design, and content may not be copied, distributed, modified, or used without explicit written permission from the author. You are granted permission to view the code for the purpose of evaluating the author's skills.
 
 ## Contact
 
-Kaung H. Zaw - [LinkedIn](https://www.linkedin.com/in/kaung-h-zaw/)
+Kaung Htet Zaw - [LinkedIn](https://www.linkedin.com/in/kaung-h-zaw/)
 
 Project Link: https://github.com/kaung-h-zaw/SENDO
