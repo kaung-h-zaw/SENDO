@@ -98,6 +98,6 @@ This project is proprietary software. The source code, design, and content may n
 
 ## Contact
 
-Kaung H. Zaw - [Add your email or LinkedIn profile link here]
+Kaung H. Zaw - [LinkedIn](https://www.linkedin.com/in/kaung-h-zaw/)
 
 Project Link: https://github.com/kaung-h-zaw/SENDO
